@@ -1,0 +1,12 @@
+bg_header.jpeg filter=lfs diff=lfs merge=lfs -text
+bumble_bee_captions.vtt filter=lfs diff=lfs merge=lfs -text
+bumble_bee_captions.srt filter=lfs diff=lfs merge=lfs -text
+Audio.mp3 filter=lfs diff=lfs merge=lfs -text
+Butterfly-209.mp4 filter=lfs diff=lfs merge=lfs -text
+Butterfly-209.webm filter=lfs diff=lfs merge=lfs -text
+flutter-mark-square-64.png filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.webm filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
