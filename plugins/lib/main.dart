@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:linux_plugins/fragments/plus_plugins_page.dart';
 import 'fragments/home_page.dart';
 import 'fragments/misc_page.dart';
 import 'fragments/plus_plugins_page.dart';
