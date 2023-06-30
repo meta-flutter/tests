@@ -118,15 +118,15 @@ class _HomePageState extends State<HomePage> {
   Locale _changeLanguage(Language language, context) {
     Locale _a;
     switch (language.languageCode) {
-      case ENGLISH: // here ENGLISH is a constant that I've created in another file called `constant.dart` file and same for other languages
+      case english: // here ENGLISH is a constant that I've created in another file called `constant.dart` file and same for other languages
         _a = Locale(language.languageCode, "US");
 
         break;
-      case NEPALI:
+      case nepali:
         _a = Locale(language.languageCode, "NP");
 
         break;
-      case SPANISH:
+      case spanish:
         _a = Locale(language.languageCode, 'AR');
 
         break;
@@ -138,6 +138,6 @@ class _HomePageState extends State<HomePage> {
   }
 }
 
-const String ENGLISH = "en";
-const String NEPALI = "ne";
-const String SPANISH = "es";
+const String english = "en";
+const String nepali = "ne";
+const String spanish = "es";
